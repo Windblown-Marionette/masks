@@ -1,5 +1,4 @@
-# masks
-A non-woven mask design that fits comfortably and requires: Olyfun fabric + equipment to cut, sew, and iron.
+# A non-woven mask design that fits comfortably and requires: Olyfun fabric + equipment to cut, sew, and iron.
 
 Based on Taiwanese masks for patients, with sections added for a nose wire, this mask design used “Oly Fun” fused polypropylene fabric, which viral particles do not pass through. The pattern must be cut out without using pins, and the front seam must have no pin holes or stitching holes since the virus – which at its smallest is 60nm in diameter with protrusions of 9-12nm – can pass through these. (There’s no point in using this fused fabric if you sew the front seam.)
 Cut out the pattern piece on a fold: this fold is the straight section below the long front curve. (We cut bolt fabric 7”/18cm wide and can make 4 masks from each strip.)
@@ -8,3 +7,4 @@ The front curve itself is welded with the point of an iron over a metal zip/zipp
 The other parts are easy as they can be sewn. There are 2 flaps for a nose wire that are folded to the front and each sewn separately; a small angled gap between them at the bridge of the nose allows the wire to be guided through. The side allowances of 5/8”/1.5cm are folded to the back to make channels for either a single 44”/112cm tape to tie on top of the head or elastic ear loops (6”/15cm of narrow elastic; insert by using a small safety pin to guide it through; sew into a loop with a ¼”/0.6cm overlap, then tuck the overlap into the channel).  
 
 https://creativecommons.org/licenses/by-sa/4.0/
+ by Michael Holt and Margaret Rowe
