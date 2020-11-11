@@ -11,8 +11,9 @@ Cut out the pattern piece on a fold: this fold is the straight section below the
 <br>
 
 ### 2. Heat fusing seams.
-<br>The front curve itself is welded with the point of an iron over a metal zip/zipper.</br>
+<br>The front curve of the pattern is heat fused to itself with the point of an iron over a metal zip/zipper.</br>
 <br>Put parchment paper on your ironing board, then stick one side of a small-gauge metal zipper onto the parchment paper with paper tape, shaping it into the curve of the front mask seam. Line up the folded mask carefully over the zipper and place another piece of parchment paper on top. Preheat iron to “cotton” setting and then press it horizontally over small sections of the mask for a count of three. Lift iron and check the weld. You need it to melt just the right amount.</br> <br>**Note:** Practice welding with scraps of the fabric; it’s tricky to get the timing and positioning right! You may need to change your iron’s heat setting.</br>
+<br>**Second note:** It is also possible to heat fuse by putting the zipper on top and transferring heat through it into the seam. This makes a prettier, stronger result if it works, but is harder to achieve. This appears to be how the Taiwanese mask was welded.</br>
 <br>You can check your technique by adding water. If it drips through anywhere, you need to redo the weld there. Also, if you melt any holes through the fabric, you have to discard the mask.</br>
 
 ### 3. Sewing loops.
