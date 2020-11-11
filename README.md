@@ -1,4 +1,4 @@
-# A non-woven mask design that fits comfortably and requires: Oly fun fabric + equipment to cut, sew, and iron.
+# A non-woven mask design that fits comfortably and requires Oly-Fun fabric + equipment to cut, sew, and iron.
 
 Based on Taiwanese masks, with sections added for a nose wire. This mask design uses  “Oly Fun” <a href="https://makermask.org/materials/"> non-woven polypropylene fabric</a> with heat-fused seams.
 
