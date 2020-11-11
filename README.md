@@ -15,7 +15,10 @@ Cut out the pattern piece on a fold: this fold is the straight section below the
 <br>Put parchment paper on your ironing board, then stick one side of a small-gauge metal zipper onto the parchment paper with paper tape, shaping it into the curve of the front mask seam. Line up the folded mask carefully over the zipper and place another piece of parchment paper on top. Preheat iron to “cotton” setting and then press it horizontally over small sections of the mask for a count of three. Lift iron and check the weld. You need it to melt just the right amount.</br> <br>**Note:** Practice welding with scraps of the fabric; it’s tricky to get the timing and positioning right! You may need to change your iron’s heat setting.</br>
 <br>You can check your technique by adding water. If it drips through anywhere, you need to redo the weld there. Also, if you melt any holes through the fabric, you have to discard the mask.</br>
 
-The other parts are easy as they can be sewn. There are 2 flaps for a nose wire that are folded to the front and each sewn separately; a small angled gap between them at the bridge of the nose allows the wire to be guided through. The side allowances of 5/8”/1.5cm are folded to the back to make channels for either a single 44”/112cm tape to tie on top of the head or elastic ear loops (6”/15cm of narrow elastic; insert by using a small safety pin to guide it through; sew into a loop with a ¼”/0.6cm overlap, then tuck the overlap into the channel).  
+3. Sewing loops.
+<br>The other parts can be sewn.</br> 
+<br>There are 2 flaps for a nose wire that are folded to the front and each sewn separately; a small angled gap between them at the bridge of the nose allows the wire to be guided through.</br> 
+</br>There are 2 side allowances of 5/8”/1.5cm that are folded to the back to make channels for either a single piece of ribbon tape to tie on top of the head (44”/112cm) or elastic ear loops (6”/15cm of narrow elastic; insert by using a small safety pin to guide it through; sew into a loop with a ¼”/0.6cm overlap, then tuck the overlap into the channel).  
 
 https://creativecommons.org/licenses/by-sa/4.0/
  by Michael Holt and Margaret Rowe
