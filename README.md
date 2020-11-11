@@ -2,6 +2,7 @@
 
 Based on Taiwanese masks, with sections added for a nose wire. This mask design uses  “Oly Fun” <a href="https://makermask.org/materials/"> non-woven polypropylene fabric</a> with heat-fused seams.
 
+YouTube video link: <a href="https://youtu.be/R86P_F-uSVw">watch me</a>
 
 ## Instructions
 
