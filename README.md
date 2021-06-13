@@ -11,7 +11,7 @@ Cut out the pattern piece on a fold: this fold is the straight section below the
 <br>**WARNING** The pattern must be cut out without using pins, and the front seam must have no pin holes or stitching holes since the virus – which at its smallest is 60nm in diameter with protrusions of 9-12nm – can pass through these. (There’s no point in using this fused fabric if you sew the front seam.)</br>
 <br>
 
-![mask template](/Mask%20Visual%20Template/Oly%20Fun%20Mask%20design%203.jpg)
+![mask template](/Mask%20Visual%20Template/Oly%20Fun%20Mask%20design%203.1.jpg)
 
 ### 2. Heat fusing seams.
 <br>The front curve of the pattern is heat fused to itself with the point of an iron over a metal zip/zipper.</br>
